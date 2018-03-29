@@ -11,7 +11,7 @@
 #include <SoftwareSerial.h>
 #include <Wire.h>
 #include <Sixfab_HDC1080.h>
-#include <SFE_MMA8452Q.h>
+#include <Sixfab_MMA8452Q.h>
  
 #define bc95 Serial
 #define USER_BUTTON 8
