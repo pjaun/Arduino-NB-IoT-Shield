@@ -25,7 +25,7 @@ The design has built-in temperature, humidity, light sensors, 3-axis acceleromet
 
 # Examples
 * ard_test_code (https://github.com/sixfab/Arduino-NB-IoT-Shield/tree/master/examples)
- ** tutorial (http://sixfab.com/product/arduino-nb-iot-shield/)
+ ** tutorial (http://sixfab.com/sixfab-arduino-nb-iot-shield/)
 
 # Applications
 * Smart farming sensor
