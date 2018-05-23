@@ -24,8 +24,16 @@ The design has built-in temperature, humidity, light sensors, 3-axis acceleromet
 ! All data pins work with 5V reference. Any other voltage level should harm your device.
 
 # Examples
-* ard_test_code (https://github.com/sixfab/Arduino-NB-IoT-Shield/tree/master/examples)
- ** tutorial (http://sixfab.com/sixfab-arduino-nb-iot-shield/)
+** [getting started](https://github.com/sixfab/Arduino-NB-IoT-Shield/tree/master/examples/gettingStartedNBIoT)  
+** [basicTutorialNBIoT](https://github.com/sixfab/Arduino-NB-IoT-Shield/tree/master/examples/basicTutorialNBIoT)  
+** [intermediateTutorialNBIoT](https://github.com/sixfab/Arduino-NB-IoT-Shield/tree/master/examples/intermediateTutorialNBIoT)  
+** [advancedTutorialNBIoT](https://github.com/sixfab/Arduino-NB-IoT-Shield/tree/master/examples/advancedTutorialNBIoT)
+
+# Tutorials 
+** [getting started](http://sixfab.com/getting-started-with-sixfab-arduino-nb-iot-shield/)  
+** [basicTutorialNBIoT](http://sixfab.com/measuring-lux-with-sixfab-arduino-nb-iot-shield/)  
+** [intermediateTutorialNBIoT](http://sixfab.com/built-in-sensors-of-sixfab-arduino-nb-iot-shield/)  
+** [advancedTutorialNBIoT](http://sixfab.com/external-sensor-with-sixfab-arduino-nb-iot-shield/) 
 
 # Applications
 * Smart farming sensor
